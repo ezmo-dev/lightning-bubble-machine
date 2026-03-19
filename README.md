@@ -7,6 +7,9 @@
 ![Network: Lightning](https://img.shields.io/badge/Network-Lightning-yellow.svg)
 ![Platform: BTCPay](https://img.shields.io/badge/Platform-BTCPay%20Server-green.svg)
 
+![cover](./assets/cover.webp)
+*⚡ Real test on the main stage at Plan ₿ Forum, San Salvador 2026*
+
 - **Level:** Intermediate
 - **Estimated time:** 2-3 hours
 - **Use cases:** Bitcoin events, kids activities, Lightning demos, conference booths
