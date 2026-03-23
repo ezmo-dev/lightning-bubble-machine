@@ -52,7 +52,7 @@ Coming soon (hardware build in progress).
 
 This project uses a custom Arduino sketch because the bubble machine requires two separate relay signals (ON and OFF).
 
-The ESP32 code is in the `src/` folder (coming soon).
+The ESP32 code is in the `code/` folder.
 
 ## License
 
