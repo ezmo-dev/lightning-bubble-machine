@@ -46,13 +46,23 @@
 
 ## Wiring
 
-Coming soon (hardware build in progress).
+| **ESP32**         | **Relay**                   |
+| ----------------- | --------------------------- |
+| GPIO 21           | IN1 (On button on remote)   |
+| GPIO 19           | IN2 (OFF button on remote)  |
+| 5V                | VCC                         |
+| GND               | GND                         |
 
 ## Software
 
 This project uses a custom Arduino sketch because the bubble machine requires two separate relay signals (ON and OFF).
 
 The ESP32 code is in the `code/` folder.
+
+## ⚠️ Safety
+
+This project involves a **220V mains supply** and a **12V battery remote control**.
+Always disconnect the bubble machine from the mains **and** remove the battery from the remote control before opening it or handling the wiring.
 
 ## License
 
